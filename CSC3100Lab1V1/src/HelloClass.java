@@ -7,6 +7,7 @@ public class HelloClass {
 		System.out.println("Lab Session");
 		System.out.println("Computer Science Program");
 		System.out.print("Commitment!");
+		System.out.println("Future is bright");
 	}
 
 }
