@@ -6,6 +6,7 @@ public class HelloClass {
 		System.out.println("Welcome to Lab Session 1");
 		System.out.println("Lab Session");
 System.out.println("Hello im Arif");
+System.out.print("test 2");
 	}
 
 }
