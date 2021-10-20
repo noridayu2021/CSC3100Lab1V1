@@ -5,8 +5,8 @@ public class HelloClass {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Lab Session 1");
 		System.out.println("Lab Session");
-System.out.println("Hello im Arif");
-System.out.print("test 2");
+		System.out.println("Computer Science Program");
+		System.out.print("Commitment!");
 	}
 
 }
