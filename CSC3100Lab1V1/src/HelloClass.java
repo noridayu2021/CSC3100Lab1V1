@@ -8,7 +8,7 @@ public class HelloClass {
 		System.out.println("Computer Science Program");
 		System.out.print("Commitment!");
 		System.out.println("Future is bright");
-		System.out.println("Love sleeping");
+		System.out.println("Love sleepingggggg");
 		
 	}
 
