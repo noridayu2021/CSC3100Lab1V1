@@ -2,6 +2,6 @@
 public class Name {
  public static void main (String[]args)
  {
-	 System.out.print("Chew Zi Qing");
+	 System.out.println("Chew Zi Qing");
  }
 }

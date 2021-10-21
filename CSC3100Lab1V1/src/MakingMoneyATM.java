@@ -7,7 +7,7 @@ public class MakingMoneyATM {
 	 System.out.println("\n*    Making Money Bank ATM Services\t*");
 	 System.out.println("\n*\t\t\t\t\t*");
 	 System.out.println("****************************************");
-	 System.out.println("\nWelcome!");
+	 System.out.println("\nWelcome !");
  }
 }
 
