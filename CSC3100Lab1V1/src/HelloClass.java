@@ -10,6 +10,14 @@ public class HelloClass {
 		System.out.println("Future is bright");
 		System.out.println("Love sleeping");
 		System.out.println("Im Sahtish Rao");
+		System.out.println("Love is gone");
+		System.out.println("Cameroon Wave_");
+		System.out.println("Fine thanks");
+		System.out.println("bear");
+		System.out.println("Las Vegan");
+		
+		
+
 	}
 
 }
