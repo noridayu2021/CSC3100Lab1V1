@@ -4,6 +4,6 @@ public class Java5Times {
   {
 	  for (int i=0;i<5;i++)
 		  System.out.println("I Love Java");
-	  System.out.print("Done");
+	  System.out.print("Done!");
   }
 }
