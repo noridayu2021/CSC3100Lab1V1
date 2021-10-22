@@ -4,20 +4,20 @@ public class MakingMoneyATM {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	     	System.out.println ("---------------------------------------------------------");
+	     	    System.out.println ("---------------------------------------------------------");
 	 	   System.out.println ("/                                                        /");
 	 	  System.out.println ("/                                                        /");
 	 	 System.out.println ("/             Making Money Bank ATM Service              /");
 	 	System.out.println ("/                                                        /");
-	   System.out.println ("/                                                        /");	
-	  System.out.println ("----------------------------------------------------------");
+	       System.out.println ("/                                                        /");	
+	      System.out.println ("----------------------------------------------------------");
 	  System.out.println ("Welcome!");
 	  System.out.println ("Insert Card");
 	  System.out.println ("Select Language");
 	  System.out.println ("Press 1 for English");
 	  System.out.println ("Press 2 for Malay");
 	  System.out.println ("Enter Pin Number");
-	   System.out.println("---------------------");
+	  System.out.println("---------------------");
 	  System.out.println ("| 1 | 2 | 3 | Clear  |");
 	  System.out.println ("---------------------");
 	  System.out.println ("| 4 | 5 | 6 | Cancel |");
