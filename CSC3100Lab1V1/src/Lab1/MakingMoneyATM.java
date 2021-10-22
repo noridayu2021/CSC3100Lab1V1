@@ -1,10 +1,10 @@
 package Lab1;
 
-public class MoneyMakingATM {
+public class MakingMoneyATM {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		    System.out.println ("---------------------------------------------------------");
+	     	System.out.println ("---------------------------------------------------------");
 	 	   System.out.println ("/                                                        /");
 	 	  System.out.println ("/                                                        /");
 	 	 System.out.println ("/             Making Money Bank ATM Service              /");
@@ -38,7 +38,7 @@ public class MoneyMakingATM {
 	  System.out.println ("Option Selected: No");
 	  System.out.println (" Ejecting Card");
 	  System.out.println ("Thank you for banking with us");	
-	  System.out.println ("Welcome !");		
+	  System.out.println ("Welcome !");	
 	}
 
 }
