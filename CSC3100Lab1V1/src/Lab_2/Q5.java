@@ -1,7 +1,7 @@
 // Name: Muniif Abdilah
 // Matric no.: 209822
 // Lab no.: 2
-// Desc.: Convert pound weight to KG weight
+// Desc.: Multiply digits of 3 digits number
 
 public class Q5 {
     public static void main(String[] args) {
