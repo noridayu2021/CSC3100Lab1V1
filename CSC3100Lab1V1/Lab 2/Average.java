@@ -1,7 +1,6 @@
-/*	Name		:Sahtish Rao Ramuloo
- *	Matric No	:210404
- *	Lab			:2
- */
+//	Name		:Sahtish Rao Ramuloo
+//	Matric No	:210404
+//	Lab			:2
 public class Average {
 
 	public static void main(String[] args) {
