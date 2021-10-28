@@ -1,6 +1,7 @@
 //	Name	:Sahtish Rao Ramuloo
 //	MatricNo:210404
 //	Lab	:2
+//	Description	:To obtain average of 3 integers
 public class Average {
 
 	public static void main(String[] args) {
