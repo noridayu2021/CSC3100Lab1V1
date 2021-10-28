@@ -1,7 +1,7 @@
 //	Name		:Sahtish Rao Ramuloo
 //	MatricNo	:210404
 //	Lab		:2
-//	Description	: BMI Calculator
+//	Description	:BMI Calculator
 public class BodyIndexMass {
 
 	public static void main(String[] args) {
