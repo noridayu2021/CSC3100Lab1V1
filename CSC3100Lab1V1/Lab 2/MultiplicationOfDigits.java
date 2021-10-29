@@ -12,7 +12,7 @@ public class MultiplicationOfDigits {
 		int thirddigit = (initialnum/100) ; // Extraction of third digit
 		int multiply = (firstdigit * seconddigit * thirddigit); // Multiplication of all 3 digits
 		System.out.println("Multiplication of the digits in " +initialnum +" is "+ multiply);
-
+	
 	}
 
 }
