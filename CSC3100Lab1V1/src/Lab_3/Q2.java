@@ -1,3 +1,8 @@
+// Name: Muniif bin Abdilah
+// Matric No.: 209822
+// Lab: Lab 3
+// Question: 2
+//
 import java.util.Scanner;
 public class Q2{
     public static void main(String[] args){
