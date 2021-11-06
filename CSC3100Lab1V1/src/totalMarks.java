@@ -8,7 +8,7 @@ public class totalMarks {
 	Scanner lol = new Scanner (System.in);
 	
 	//prompt user to enter matric number
-	System.out.println("Please enter your matric number : ");
+	System.out.print("Please enter your matric number : ");
 	double matricNumber = lol.nextDouble();
 	
 	//prompt user to enter their following marks
