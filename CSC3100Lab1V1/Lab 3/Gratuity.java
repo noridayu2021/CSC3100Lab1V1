@@ -10,7 +10,7 @@ public static void main(String[]args) {
 
 //Input Subtotal and Gratuity rate
 Scanner input = new Scanner(System.in);
-System.out.println("Enter the subtotal and gratuity rate");
+System.out.println("Enter the subtotal (RM) and gratuity rate (100%)");
 double subtotal = input.nextDouble();
 double gratuityRate = input.nextDouble();
 
