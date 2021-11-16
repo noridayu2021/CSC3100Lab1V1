@@ -13,6 +13,6 @@ public class WaistSize {
 	if (waistSize<35)
 		System.out.println("You are healthy");
 	else
-		System.out.println("You have high risk and needs to talk with your doctor SOON!!!1");
+		System.out.println("You have high risk and needs to talk with your doctor SOON!!!");
 }
 }
