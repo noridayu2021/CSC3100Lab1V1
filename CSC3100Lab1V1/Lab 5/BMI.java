@@ -1,3 +1,8 @@
+//	Name		:Sahtish Rao Ramuloo
+//	MatricNo	:210404
+//	Lab		:5
+//	Question	:2
+//	Description	:To calculate BMI and to show health risk
 import java.util.Scanner;
 public class BMI {
 	public static void main(String[] args) {
